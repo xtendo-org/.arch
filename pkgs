@@ -1,0 +1,91 @@
+# fundamental elements of life
+sudo
+fish
+gvim  # for Vim's X11 support
+tmux
+git
+openssh
+
+# system management
+pkgfile
+abs
+
+# power management
+powertop
+acpi
+
+# device
+xf86-video-intel
+xf86-input-synaptics
+bluez
+bluez-utils
+rfkill
+wpa_supplicant
+## sound
+alsa-utils
+pulseaudio-alsa
+pavucontrol
+## printing
+cups
+hplip
+## disk
+exfat-utils
+
+# xorg
+xorg-server
+xorg-xinit
+xorg-utils
+xorg-xmodmap
+xorg-xrandr
+xorg-xrdb
+xorg-xinput
+xclip
+
+# fonts
+noto-fonts
+adobe-source-han-sans-cn-fonts
+adobe-source-han-sans-jp-fonts
+adobe-source-han-sans-kr-fonts
+adobe-source-han-sans-tw-fonts
+# noto-fonts-emoji
+
+# graphical configuration and management
+# install xscreensaver-argh-logo from AUR
+uim
+dzen2
+libxft
+
+# graphical user applications
+terminator
+gnome-terminal
+gmrun
+firefox
+flashplugin
+gvim
+chromium
+# chromium stopped working after an upgrade on Apr 11, 2016.
+# /usr/lib/chromium/chromium: error while loading shared libraries: libicui18n.so.57: cannot open shared object file: No such file or directory
+# Manually installing the "icu" packaged solved it.
+gsimplecal
+fontforge
+graphviz
+eog
+
+# terminal tools
+wget
+unzip
+net-tools  # netstat
+tree
+expect
+
+# development
+go
+# stack: install libtinfo from AUR
+mariadb
+vagrant
+docker  # sudo usermod -aG docker username
+rsync
+
+# graphics
+wine
+inkscape
