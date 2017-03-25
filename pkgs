@@ -21,6 +21,7 @@ bluez
 bluez-utils
 rfkill
 wpa_supplicant
+wicd
 ## sound
 alsa-utils
 pulseaudio-alsa
@@ -70,6 +71,7 @@ gsimplecal
 fontforge
 graphviz
 eog
+gedit
 
 # terminal tools
 wget
@@ -86,7 +88,11 @@ vagrant
 docker  # sudo usermod -aG docker username
 rsync
 ansible
+python-pip
 
 # graphics
 wine
 inkscape
+
+# work
+openconnect
