@@ -20,8 +20,6 @@ xf86-input-synaptics
 bluez
 bluez-utils
 rfkill
-wpa_supplicant
-wicd
 ## sound
 alsa-utils
 pulseaudio-alsa
@@ -79,11 +77,11 @@ unzip
 net-tools  # netstat
 tree
 expect
+p7zip
 
 # development
 go
 # stack: install libtinfo from AUR
-mariadb
 vagrant
 docker  # sudo usermod -aG docker username
 rsync
@@ -94,5 +92,8 @@ python-pip
 wine
 inkscape
 
-# work
+# network
 openconnect
+wpa_supplicant
+wicd
+sshfs
