@@ -27,6 +27,7 @@ pavucontrol
 ## printing
 cups
 hplip
+gtk3-print-backends
 ## disk
 exfat-utils
 
@@ -39,6 +40,8 @@ xorg-xrandr
 xorg-xrdb
 xorg-xinput
 xclip
+xdotool
+xorg-xkbcomp
 
 # fonts
 noto-fonts
@@ -73,6 +76,7 @@ gedit
 
 # terminal tools
 wget
+zip
 unzip
 net-tools  # netstat
 tree
@@ -87,6 +91,7 @@ docker  # sudo usermod -aG docker username
 rsync
 ansible
 python-pip
+mariadb-clients
 
 # graphics
 wine
@@ -97,3 +102,7 @@ openconnect
 wpa_supplicant
 wicd
 sshfs
+
+# android
+android-tools
+android-udev
