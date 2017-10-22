@@ -8,7 +8,6 @@ openssh
 
 # system management
 pkgfile
-abs
 
 # power management
 powertop
@@ -34,7 +33,6 @@ exfat-utils
 # xorg
 xorg-server
 xorg-xinit
-xorg-utils
 xorg-xmodmap
 xorg-xrandr
 xorg-xrdb
@@ -94,7 +92,6 @@ python-pip
 mariadb-clients
 
 # graphics
-wine
 inkscape
 
 # network
