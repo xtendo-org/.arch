@@ -18,7 +18,7 @@ xf86-video-intel
 xf86-input-synaptics
 bluez
 bluez-utils
-rfkill
+thermald
 ## sound
 alsa-utils
 pulseaudio-alsa
@@ -55,6 +55,7 @@ ttf-roboto
 uim
 dzen2
 libxft
+gnome-themes-standard
 
 # graphical user applications
 terminator
@@ -83,6 +84,7 @@ net-tools  # netstat
 tree
 expect
 p7zip
+lsof
 
 # development
 go
