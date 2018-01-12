@@ -18,6 +18,7 @@ xf86-video-intel
 xf86-input-synaptics
 bluez
 bluez-utils
+blueberry
 thermald
 ## sound
 alsa-utils
