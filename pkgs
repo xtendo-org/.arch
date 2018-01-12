@@ -53,7 +53,7 @@ ttf-roboto
 # noto-fonts-emoji
 
 # graphical configuration and management
-# install xscreensaver-argh-logo from AUR
+# install xscreensaver-arch-logo from AUR
 uim
 dzen2
 libxft
