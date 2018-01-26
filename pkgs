@@ -90,6 +90,7 @@ expect
 p7zip
 lsof
 perl-image-exiftool
+whois
 
 # development
 go
