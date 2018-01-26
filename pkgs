@@ -43,6 +43,7 @@ xclip
 xdotool
 xorg-xkbcomp
 xorg-xvinfo
+xorg-xprop
 
 # fonts
 noto-fonts
@@ -88,6 +89,7 @@ tree
 expect
 p7zip
 lsof
+perl-image-exiftool
 
 # development
 go
